@@ -1,1 +1,1 @@
-Software Engineering Methods (Devops Subject R1)
+Software Engineering Methods (Devops Subject R2)
