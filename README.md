@@ -5,3 +5,4 @@ workflow added in github
 [![GitHub release](https://img.shields.io/github/release/padaukwai/REPO.svg)](https://github.com/padaukwai/devops2026maysep/releases)
 
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+[![GitHub release](https://img.shields.io/github/v/release/padaukwai/IntegrationTestingRep?include_prereleases&sort=semver)](https://github.com/padaukwai/IntegrationTestingRep/releases)
