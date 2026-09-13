@@ -6,3 +6,5 @@ workflow added in github
 
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 [![GitHub release](https://img.shields.io/github/v/release/padaukwai/devops2026maysep?include_prereleases&sort=semver)](https://github.com/padaukwai/devops2026maysep/releases)
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/padaukwai/devops2026maysep/main.yml?branch=develop
